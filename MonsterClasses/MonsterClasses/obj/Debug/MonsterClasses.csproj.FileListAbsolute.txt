@@ -1,0 +1,7 @@
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\bin\Debug\MonsterClasses.exe.config
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\bin\Debug\MonsterClasses.exe
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\bin\Debug\MonsterClasses.pdb
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.csprojAssemblyReference.cache
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.exe
+C:\Users\Mitch\Documents\Classes Spring 2019\CIT 195 -- Application Development\Week 6\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.pdb
